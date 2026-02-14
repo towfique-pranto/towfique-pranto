@@ -14,13 +14,8 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="35" height="35"/></a>
-</p>
-
-**Learning (Full-Stack):**
-<p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/></a>
+ 
 </p>
 
 ---
@@ -30,9 +25,6 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
 - Frontend architecture patterns
 - State management in React
 - Backend fundamentals
-
-## Goal
-To grow into a skilled full-stack developer who writes clean, scalable, and maintainable code.
 
 
 ## GitHub Stats
