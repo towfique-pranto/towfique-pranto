@@ -4,7 +4,7 @@ Frontend-focused developer working with React and modern JavaScript.
 I build clean, structured user interfaces and turn ideas into practical, real-world applications, with a focus on scalability and maintainability.
 
 
-## Tech Stack
+## Tools I Use
 
 <p align="left">
 <p align="left">
@@ -15,6 +15,7 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="35" height="35"/></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render/46E3B7" alt="render" width="35" height="35"/></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/></a>
  
 </p>
