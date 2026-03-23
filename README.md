@@ -17,7 +17,7 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="35" height="35"/></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render/46E3B7" alt="render" width="35" height="35"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="nonreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="35" height="35"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="35" height="35"/></a>
           
 
  
