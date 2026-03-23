@@ -1,6 +1,6 @@
-Hi, I'm Towfique Kabir 👋
+Hi, I'm Towfique Kabir
 
-Frontend-focused developer working with React and modern JavaScript.  
+Frontend developer working with React and modern JavaScript.  
 I build clean, structured user interfaces and turn ideas into practical, real-world applications, with a focus on scalability and maintainability.
 
 
@@ -13,10 +13,12 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="35" height="35"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="35" height="35"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="35" height="35"/></a>
   <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render/46E3B7" alt="render" width="35" height="35"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="nonreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="35" height="35"/></a>
+          
 
  
 </p>
