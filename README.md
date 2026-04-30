@@ -1,4 +1,4 @@
-Hi, I'm Towfique Kabir
+<h1 align="center" width="100%">Hi, I'm Towfique Kabir</h1>
 
 Frontend developer working with React and modern JavaScript.  
 I build clean, structured user interfaces and turn ideas into practical, real-world applications, with a focus on scalability and maintainability.
