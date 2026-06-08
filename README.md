@@ -27,7 +27,6 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
 </p>
 
 
----
 ## What I'm Exploring
 - Frontend architecture patterns
 - State management in React
