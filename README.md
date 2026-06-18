@@ -26,8 +26,6 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
 <br><br>
 </p>
 
----
-
-## Connect With Me
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/towfique-kabir-5b6182135) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:towfique.pranto@proton.me) 
