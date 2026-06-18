@@ -24,6 +24,7 @@ I build clean, structured user interfaces and turn ideas into practical, real-wo
 </table>
 </p>
 <br><br>
+<br><br>
 </p>
 
 ## Get in touch
